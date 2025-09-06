@@ -18,7 +18,6 @@ An IoT project that monitors water quality parameters (water level, TDS, turbidi
 ## Hardware Components
 
 - ESP32 Dev Board (x2)
-- LoRa Module (SX1278/SX1276)
 - TDS Sensor
 - Turbidity Sensor
 - Ultrasonic Sensor (e.g., HC-SR04)
@@ -36,7 +35,6 @@ Install the following libraries from the Arduino Library Manager:
 
 | Library Name                  | Use                                     |
 |-------------------------------|------------------------------------------|
-| `LoRa` by Sandeep Mistry      | For LoRa SX127x communication           |
 | `LiquidCrystal_I2C`           | For displaying data on I2C LCD          |
 | `SoftwareSerial`              | For serial communication with HC-05     |
 | `Blynk` / `BlynkSimpleEsp32`  | For Blynk app integration                |
