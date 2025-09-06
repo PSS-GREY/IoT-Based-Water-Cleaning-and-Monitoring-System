@@ -45,3 +45,5 @@ To install a library:
 
 ```arduino
 Sketch -> Include Library -> Manage Libraries...
+For any further clarifications leave a message to pssdharsansreeram@gmail.com
+Thank you
